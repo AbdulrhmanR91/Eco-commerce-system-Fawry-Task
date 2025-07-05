@@ -1,17 +1,5 @@
 # 🛒 Eco-Commerce System - Fawry Internship Challenge
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [System Requirements](#system-requirements)
-- [Installation & Setup](#installation--setup)
-- [Usage Examples](#usage-examples)
-- [Code Structure](#code-structure)
-- [Test Cases](#test-cases)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-
 ## 🌟 Overview
 
 This is an e-commerce system developed as part of the Fawry Full Stack Development Internship Challenge. The system demonstrates core e-commerce functionality including product management, shopping cart operations, checkout process, and shipping services.
