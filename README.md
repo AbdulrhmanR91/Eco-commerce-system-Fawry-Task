@@ -105,8 +105,3 @@ The `screenShoots/` directory contains visual demonstrations of the system:
 - System execution examples
 - Console output samples
 - Test case results
-
-
-**Challenge**: Fawry Full Stack Development Internship  
-**Language**: Java  
-**Date**: July 2025
